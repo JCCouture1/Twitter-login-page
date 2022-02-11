@@ -1,0 +1,89 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: gray;
+}
+*,*{
+    margin: 0;
+}
+.first-div{
+    margin-top: 40px;
+    margin-left: 300px;
+    background: #fffffffb;
+    width: 50%;
+    height: 600px;
+    box-sizing: content-box;
+    border-radius: 20px;
+}
+.second-div{
+    text-align: center;
+    align-items: center;
+}
+.twitter-icon{
+    margin-top: 20px;
+    width: 40px;
+}
+h1{
+    margin-top: 30px;
+    margin-left: -120px;
+    font-weight: bold;
+}
+.inputs{
+    margin-top: 40px;
+    background: transparent;
+    width: 250px;
+    height: 35px;
+    border-radius: 12px;
+    background: url(img/google2.png) no-repeat +40px center ;
+    background-size: 20px; 
+}
+.inputs2{
+    margin-top: 27px;
+    background: transparent;
+    width: 250px;
+    height: 35px;
+    border-radius: 12px;
+    font-weight: bold;
+    background: url(img/mac-os--v2.png) no-repeat +40px center;
+    background-size: 20px;
+}
+hr{
+    margin-top: 27px;
+    margin-left: 90px;
+    width: 35%;
+}
+h3{
+    margin-left: 25px;
+    margin-top: -12px;
+}
+.inputs3{
+    margin-top: 18px;
+    width: 250px;
+    height: 40px;
+    padding-left: 8px;
+}
+.inputs4{
+    margin-top: 27px;
+    background: black;
+    color: white;
+    border: transparent;
+    width: 250px;
+    height: 35px;
+    border-radius: 12px;
+    font-weight: bold;
+}
+.inputs5{
+    margin-top: 27px;
+    background: transparent;
+    width: 250px;
+    height: 35px;
+    border-radius: 12px;
+    font-weight: bold;
+}
+p{
+    margin-top: 45px;
+    margin-left: -70px;
+}
+.span{
+    color: rgb(0, 195, 255);
+}
